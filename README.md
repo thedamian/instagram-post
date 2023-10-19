@@ -4,7 +4,7 @@
 
 This project was an exact copy of https://github.com/leocosta1/instagram-clone
 
-- **[Live Preview](https://thedamian.github.io/instagram-post/)**
+- **[Live Preview](https://thedamian.github.io/instagram-post/post.html)**
 
 
 ## ⚙ Dev Setup (VS Code)
